@@ -1,2 +1,2 @@
 # template
-template application
+template application for C# and react + vite
