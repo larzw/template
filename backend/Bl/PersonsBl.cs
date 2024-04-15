@@ -14,6 +14,7 @@ public interface IPersonsBl
     public List<PersonsEntity> GetAll();
 
     public PersonsEntity GetBy(int id);
+
     public int DeleteBy(int id);
 
     public PersonsEntity CreateBy(PersonsEntity entity);
