@@ -1,2 +1,2 @@
 # template
-template application for C# and react + vite
+template for MS SQL Server, C# webapi, and react + vite
